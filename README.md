@@ -1,16 +1,16 @@
-# TMD
+# TMD (Tidy markdown)
 
-一个通过 Markdown 写笔记的应用
+✍🏻 一个用 markdown 写笔记的应用。
 
 ## 开发
 
-### 安装依赖 Install dependencies
+### 安装依赖(Install dependencies)
 
 ```sh
 pnpm i
 ```
 
-### 开发预览 Developer Preview
+### 开发预览(Developer Preview)
 
 直接运行下面的命令，即可启动客户端项目。
 
@@ -30,7 +30,7 @@ pnpm dev:electron
 pnpm dev:split
 ```
 
-### 打包 Build
+### 打包(Build)
 
 ```sh
 # 打包
